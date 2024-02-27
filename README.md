@@ -1,2 +1,2 @@
 # Portfolio
-Work related materials
+Sample of work related materials.
